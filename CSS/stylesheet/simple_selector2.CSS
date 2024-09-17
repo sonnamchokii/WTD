@@ -1,0 +1,12 @@
+h3 {
+    text-decoration: underline dotted black;
+}
+
+.center {
+    text-align: center;
+    color: plum;
+}
+
+h3, h5, p {
+    background-color: aquamarine;
+}
